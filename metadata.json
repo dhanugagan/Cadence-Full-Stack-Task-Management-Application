@@ -1,0 +1,6 @@
+{
+  "name": "Cadence",
+  "description": "Full-stack real-time task management workspace with Kanban, Eisenhower Matrix, Focus Timer, WebSocket sync, and Firebase authorization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
